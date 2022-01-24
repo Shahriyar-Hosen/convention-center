@@ -1,0 +1,50 @@
+/* Font-Family */
+.poppins{
+    font-family: 'Poppins', sans-serif;
+}
+.roboto{
+    font-family: 'Roboto', sans-serif;
+}
+.trust-btn{
+    color: rgb(0, 0, 196)	;
+    background: #FFFFFF;
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 10px 25px;
+    border-radius: 5px;
+}
+.package-btn{
+    color: rgb(4, 2, 134);
+    background-color: #ddeaff;
+    font-size: 15px;
+    font-weight: bold;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+.package-btn:hover{
+    color: white;
+    background-color: rgb(26, 26, 253);
+}
+.package-btn-hot{
+    color: rgb(6, 4, 131);
+    background-color: #ffffff;
+    font-size: 15px;
+    font-weight: bold;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+.package-btn-hot:hover{
+    color: white;
+    background-color: navy;
+}
+.hot-package{
+    color: black;
+    background-color: rgb(245, 245, 220);
+    border-radius: 15px;
+}
+.list-icon{
+    color: rgb(33, 33, 253);
+    background: rgba(82, 67, 194, 0.103693);
+    border-radius: 50%;
+}
