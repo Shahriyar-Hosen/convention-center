@@ -5,6 +5,8 @@
 .roboto{
     font-family: 'Roboto', sans-serif;
 }
+
+/* Slider Button */
 .trust-btn{
     color: rgb(0, 0, 196)	;
     background: #FFFFFF;
@@ -19,6 +21,8 @@
     color: navy;
     font-weight: 500;
 }
+
+/* Our Package */
 .package-btn{
     color: rgb(4, 2, 134);
     background-color: #ddeaff;
@@ -65,12 +69,15 @@
     color: whitesmoke;
     padding: 5px 12px;
 }
+
+/* Footer Section */
 .footer{
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
+/* Our Project */
 .bg-project{
     background-color: #ddeaff;
 }
